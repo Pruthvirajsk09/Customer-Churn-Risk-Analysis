@@ -1,4 +1,4 @@
-# Customer Churn Risk Scoring Model | SQL · Python · Power BI
+# Customer Churn Risk Analysis | SQL · Python · Power BI
 **Domain:** Telecom Analytics | **Tools:** MySQL · Python · Power BI · DAX · Pandas · Matplotlib · Seaborn
 
 ---
